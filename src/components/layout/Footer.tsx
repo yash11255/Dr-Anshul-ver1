@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-slate-50 border-t border-slate-100 font-sans text-sm antialiased">
       <div className="max-w-7xl mx-auto px-8 py-16 grid grid-cols-1 md:grid-cols-3 gap-12">
         <div>
-          <div className="text-xl font-headline font-bold text-slate-900 mb-6">Dr. Anshul Goyal</div>
+          <div className="text-xl font-headline font-bold text-slate-900 mb-6">Dr. Anshul Goel</div>
           <p className="text-slate-500 max-w-xs leading-relaxed">
             Providing world-class orthopedic care and surgical excellence in the heart of Delhi.
           </p>
@@ -50,7 +50,7 @@ const Footer = () => {
             ))}
           </div>
           <p className="text-slate-600 italic mb-4 leading-relaxed">
-            "Dr. Anshul Goyal is truly life-changing. His expertise in limb reconstruction helped me get back on my feet after a complex fracture. Highly recommended!"
+            "Dr. Anshul Goel is truly life-changing. His expertise in limb reconstruction helped me get back on my feet after a complex fracture. Highly recommended!"
           </p>
           <div className="font-bold text-slate-900 text-sm">— Rajesh Kumar, Patient Testimony</div>
         </div>
@@ -83,7 +83,7 @@ const Footer = () => {
       </div>
 
       <div className="max-w-7xl mx-auto px-8 py-8 border-t border-slate-200/50 flex flex-col md:flex-row justify-between items-center gap-4">
-        <span className="text-slate-500 text-xs">© {new Date().getFullYear()} Dr. Anshul Goyal. All rights reserved.</span>
+        <span className="text-slate-500 text-xs">© {new Date().getFullYear()} Dr. Anshul Goel. All rights reserved.</span>
         <div className="flex gap-6">
           <Link className="text-slate-400 hover:text-slate-900 transition-colors" href="#">Terms of Service</Link>
           <Link className="text-slate-400 hover:text-slate-900 transition-colors" href="#">Cookie Policy</Link>

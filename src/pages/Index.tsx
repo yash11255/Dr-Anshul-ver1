@@ -21,7 +21,7 @@ const Index = () => {
               <span className="italic font-normal">Excellence in Care.</span>
             </h1>
             <p className="text-lg text-on-surface-variant max-w-xl leading-relaxed mb-10">
-              Recognized as the best orthopedic doctor in Delhi, Dr. Anshul Goyal combines world-class surgical expertise from Wrightington, UK, with a compassionate, patient-first philosophy.
+              Recognized as the best orthopedic doctor in Delhi, Dr. Anshul Goel combines world-class surgical expertise from Wrightington, UK, with a compassionate, patient-first philosophy.
             </p>
             <div className="flex gap-4">
               <div className="bg-surface-container-low px-4 py-2 rounded-full flex items-center gap-2">
@@ -38,7 +38,7 @@ const Index = () => {
             <div className="aspect-[4/5] rounded-xl overflow-hidden shadow-2xl">
               <img
                 className="w-full h-full object-cover"
-                alt="Professional portrait of Dr. Anshul Goyal in clinical attire"
+                alt="Professional portrait of Dr. Anshul Goel in clinical attire"
                 src="/herosection.jpg"
               />
             </div>
@@ -75,7 +75,7 @@ const Index = () => {
                 <div className="flex-1">
                   <h3 className="text-3xl font-headline mb-4">Wrightington Hospital Experience</h3>
                   <p className="text-white/80 text-lg leading-relaxed">
-                    Honing skills at the birthplace of modern hip replacement. Dr. Goyal’s tenure at Wrightington Hospital, UK, allowed him to master advanced joint arthroplasty techniques under the world's leading orthopedic consultants.
+                    Honing skills at the birthplace of modern hip replacement. Dr. Goel’s tenure at Wrightington Hospital, UK, allowed him to master advanced joint arthroplasty techniques under the world's leading orthopedic consultants.
                   </p>
                 </div>
                 <div className="w-full md:w-1/3 aspect-video rounded-lg overflow-hidden grayscale opacity-50">
@@ -171,7 +171,7 @@ const Index = () => {
               </blockquote>
               <div className="flex items-center gap-4">
                 <div className="w-12 h-[1px] bg-tertiary-fixed-dim"></div>
-                <span className="font-label uppercase tracking-widest text-xs font-bold text-tertiary-fixed-dim">Dr. Anshul Goyal</span>
+                <span className="font-label uppercase tracking-widest text-xs font-bold text-tertiary-fixed-dim">Dr. Anshul Goel</span>
               </div>
             </div>
           </div>

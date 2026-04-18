@@ -17,7 +17,7 @@ const Services = () => {
     },
     {
       question: "Am I a candidate for arthroscopic surgery?",
-      answer: "Arthroscopic surgery is suitable for many knee, shoulder, and ankle conditions. Dr. Anshul Goyal will evaluate your condition through imaging and physical examination to determine the best approach."
+      answer: "Arthroscopic surgery is suitable for many knee, shoulder, and ankle conditions. Dr. Anshul Goel will evaluate your condition through imaging and physical examination to determine the best approach."
     },
     {
       question: "What are the treatment options for a slipped disc?",

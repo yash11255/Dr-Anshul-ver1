@@ -41,7 +41,7 @@ const Appointment = () => {
                 Take the First Step to <br/><span className="italic font-normal text-midnight-gradient text-fill-transparent bg-clip-text">Painless Motion.</span>
               </h1>
               <p className="text-lg text-on-surface-variant max-w-lg mb-10 leading-relaxed">
-                Experience world-class orthopedic care. Fill out the form below to request an appointment with Dr. Anshul Goyal. Our team will contact you within 24 hours to confirm your slot.
+                Experience world-class orthopedic care. Fill out the form below to request an appointment with Dr. Anshul Goel. Our team will contact you within 24 hours to confirm your slot.
               </p>
               
               {/* Quick Info Cards */}
