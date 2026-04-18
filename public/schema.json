@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "Dr. Anshul Goel",
+  "url": "https://www.dranshulgoel.com",
+  "image": "https://dranshulgoel.com/dranshulgoel.png",
+  "description": "Expert orthopedic surgeon specializing in joint replacement, knee surgery & sports injuries",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "D 23 Flat No. 7, Block D, Rajouri Garden",
+    "addressLocality": "Delhi",
+    "postalCode": "110027",
+    "addressCountry": "IN"
+  },
+  "telephone": "+91-8527419626",
+  "email": "dranshulgoel@gmail.com",
+  "medicalSpecialty": [
+    "Orthopedic Surgery",
+    "Joint Replacement",
+    "Spine Surgery",
+    "Sports Medicine"
+  ],
+  "areaServed": {
+    "@type": "place",
+    "name": "Delhi NCR"
+  },
+  "sameAs": [
+    "https://facebook.com/dranshulgoel",
+    "https://twitter.com/dranshulgoel",
+    "https://instagram.com/dranshulgoel",
+    "https://linkedin.com/in/dranshulgoel"
+  ],
+  "knowsAbout": [
+    "Total Knee Replacement",
+    "Total Hip Replacement",
+    "Shoulder Replacement",
+    "Spine Surgery",
+    "Sports Injuries",
+    "Trauma Surgery",
+    "Joint Reconstruction",
+    "Arthroscopy"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "150",
+    "reviewCount": "150"
+  }
+}
